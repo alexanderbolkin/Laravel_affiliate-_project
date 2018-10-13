@@ -1,0 +1,23 @@
+in admin panel , please make notification.
+
+in left menu of admin panel,you can select send notification link.
+
+in there,you can see edit page.
+
+-title
+-content(<list> , <table>)
+	for content , you can select list , table and write your content in there.
+        and click send notification button.
+-then the niotification icon has to display in left menu or left -top navbar.
+  so , user can select this notification .
+  then user will see notification text in user panel.
+
+  for user panel: you have to change the database inform for user.
+  for admin panel:you can set is_admin=1 , for user is_admin=0
+  then , you will see notification Inbox link in left part.
+  as a result : the notification page is same invoice page.
+
+
+
+
+
